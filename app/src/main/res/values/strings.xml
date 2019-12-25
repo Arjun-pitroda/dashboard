@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dashboard blood bank</string>
+    <string name="nbb">NEARBY BLOOD BANK</string>
+    <string name="rb">REQUEST BLOOD</string>
+</resources>
